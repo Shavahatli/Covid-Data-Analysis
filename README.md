@@ -1,7 +1,7 @@
 # Covid-Data-Analysis
 
 ## About
-This project looks at the spread of the COVID-19 virus across the US regions over the last two years. The graph below shows the results. Check out [here](Covid_19_Final_Project_2022.ipynb) for the project code.
+This project looks at the spread of the COVID-19 virus across the US regions over the last two years. The graph below shows the results. The project code can be viewed [here](https://nbviewer.org/github/Shavahatli/Covid-Data-Analysis/blob/main/Covid_19_Final_Project_2022.ipynb).
 
 ![](Covid19.png)
 
